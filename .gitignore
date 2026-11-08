@@ -7,3 +7,6 @@ venv/
 # SQLite 적재 DB (로컬 데이터는 저장소에 올리지 않음)
 *.db
 *.db-journal
+
+# MCP 설정 (GitHub 토큰 포함, 저장소에 올리지 않음)
+.mcp.json
